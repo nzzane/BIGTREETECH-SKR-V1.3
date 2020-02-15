@@ -1,6 +1,6 @@
 ============================================================================
 
-__Configured for MY Tevo Tarantula. It works for me, it may not work for you!__
+__Configured for MY Tevo Tarantula. It works for me, it may not work for you - Please use normal Marlin for now (SKR-V1.4Turbo__
 
 Open configuration.h file in a text editor and make the changes at the top (EasyConfig)
 section of the file. You should not have to make any other changes.
